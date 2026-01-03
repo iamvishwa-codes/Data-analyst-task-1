@@ -6,7 +6,7 @@ Design an **interactive Power BI dashboard** to help business stakeholders analy
 ---
 
 ## 🗂 Dataset
-- **Source:** Sales / Financial dataset (CSV)
+- **Source:** Sales / Financial dataset (CSV) 
 - **Key Columns Used:**
   - Order Date
   - Sales
@@ -79,3 +79,4 @@ All visuals update dynamically based on slicer selection.
 ## 👤 Author
 **Vishwa**  
 Aspiring Data Analyst | Power BI | SQL | Python
+
